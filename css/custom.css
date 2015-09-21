@@ -1,3 +1,19 @@
+div.venture {
+	background-color: #0d0d0d;
+	padding: 10px;
+	margin: 0px;
+	color: #ffffff;
+}
+
+div.venture a {
+	color: #ffffff;
+}
+
+div.venture a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	margin: 10px 0;
 	font-family: 'Source Sans Pro', sans-serif;
